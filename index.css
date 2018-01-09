@@ -11,7 +11,7 @@ a {
   text-decoration: none;
 }
 
-#temp {
+.temp {
   background-color: black;
   height: 40px;
   position: fixed;

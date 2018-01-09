@@ -12,7 +12,7 @@ a {
 }
 
 #temp {
-  color: BLACK;
+  background-color: BLACK;
   height: 40px;
   position: fixed;
   bottom: 0;

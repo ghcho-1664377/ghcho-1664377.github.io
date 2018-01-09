@@ -10,3 +10,12 @@ a {
   color: BLACK;
   text-decoration: none;
 }
+
+#temp {
+  color: BLACK;
+  height: 40px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}

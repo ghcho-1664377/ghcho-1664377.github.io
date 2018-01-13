@@ -3,6 +3,12 @@ div {
 	background-color: gray;
 }
 
+img {
+	width: 600px;
+	height: 715px;
+	margin: 5px;
+}
+
 #floating {
 	float: right;
 }

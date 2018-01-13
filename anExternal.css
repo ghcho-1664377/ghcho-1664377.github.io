@@ -1,4 +1,4 @@
-span {
+#textbox {
 	position: sticky;
 	top: 0;
 	border-radius: 25px;
@@ -6,6 +6,8 @@ span {
 	padding: 5px;
 	width: 500px;
 	height: 140px;
+	float: left;
+	margin: 5px;
 }
 
 img {

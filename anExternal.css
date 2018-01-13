@@ -1,9 +1,4 @@
-div {
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#textbox {
+span {
 	position: sticky;
 	top: 0;
 	border-radius: 25px;

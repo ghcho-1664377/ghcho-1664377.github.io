@@ -12,11 +12,12 @@ img {
 	float: left;
 	width: 100px;
 	height: 130px;
+	margin: 5px;
 }
 
 aside {
 	background-color: #ffff99;
 	width: 300px;
 	height: 1500px;
-	margin-left: 5px;
+	margin-right: 5px;
 }

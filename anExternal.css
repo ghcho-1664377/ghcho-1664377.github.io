@@ -7,8 +7,9 @@ div {
 	padding: 5px;
 }
 
-img {
-	width: 600px;
-	height: 715px;
+aside {
+	background-color: #ffff99;
+	width: 300px;
+	height: 1500px;
 	margin: 5px;
 }

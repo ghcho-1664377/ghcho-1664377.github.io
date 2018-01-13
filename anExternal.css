@@ -4,11 +4,8 @@ div {
 }
 
 img {
+	float: right;
 	width: 600px;
 	height: 715px;
 	margin: 5px;
-}
-
-p {
-	float: right;
 }

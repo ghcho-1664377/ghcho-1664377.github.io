@@ -2,22 +2,29 @@ body {
 	background-image: URL("dark_wood.png");
 }
 
-p {
+p, a, h1 {
 	font-weight: bold;
+}
+
+p, a {
 	color: white;
+}
+
+p {
 	font-family: "Arial";
 }
+
+h1, h3 {
+	font-family: "Passion One";
+} 
 
 h3 {
 	color: #FFBC00;
 	font-size: 40px;
-	font-family: "Passion One";
 	margin-bottom: 0px;
 }
 
 a {
-	color: white;
-	font-weight: bold;
 	font-size: 24px;
 
 }
@@ -36,11 +43,9 @@ div {
 	width: 500px;
 }
 
-#Header h1 {
+h1 {
 	font-size: 60px;
-	font-family: "Passion One";
 	color: #FFBC00;
-	font-weight: bold;
 }
 
 #LeftNav {
@@ -49,7 +54,7 @@ div {
 	padding-bottom: 8px;
 }
 
-#LeftNav ul {
+ul {
 	list-style-type: none;
 	padding: 0px;
 }
